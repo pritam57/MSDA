@@ -5,5 +5,3 @@ __pycache__/
 .DS_Store
 data/chroma_db/*.bin
 data/chroma_db/*.sqlite3
-pdfs/*.pdf
-!pdfs/Document2.pdf
