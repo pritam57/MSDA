@@ -1,0 +1,10 @@
+langchain
+langchain-anthropic
+langchain-huggingface
+langchain-chroma
+huggingface-hub
+chromadb
+PyPDF2
+python-dotenv
+streamlit
+pillow
